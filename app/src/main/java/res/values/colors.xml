@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f8bbd0</color>
+    <color name="colorPrimaryDark">#EC97BC</color>
+    <color name="colorAccent">#FACDDB</color>
+
+    <color name="colorbookApp">#ffeeff</color>
+    <color name="selected_slot_pink">#c48b9f</color>
+    <color name="white">#ffffff</color>
+    <color name="mint_green">#58A8CE</color>
+    <color name="gray">#686868</color>
+    <color name="shadow_gray">#42000000</color>
+    <color name="light_gray">#CECDD1CD</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="red">#E53935</color>
+    <color name="green">#43A047</color>
+    <color name="blue">#0079D6</color>
+    <color name="primary_light">#58A8CE</color>
+    <color name="profile_bg_light">#8ac0da</color>
+</resources>

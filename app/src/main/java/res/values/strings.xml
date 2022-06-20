@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">VSaloonApplication</string>
+    <string name="signup_txt_un"> <u>sign up</u>.</string>
+    <string name="forgot_pass_txt_un"> <u>Forgot Password</u>.</string>
+    <string name="login_txt_un"> <u>Login</u>.</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
